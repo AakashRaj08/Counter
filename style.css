@@ -1,0 +1,51 @@
+*{
+    background-color: rgb(224, 211, 211);
+}
+
+.wrapper{
+    border: 2px solid black;
+    width : 30%;
+    padding : 20px;
+    text-align: center;
+    margin-top: 20%;
+    margin-left : 30%;
+    box-shadow: 10px 10px 30px black;
+    background-color: white;
+}
+#counter{
+    background-color: white;
+    font-size: 50px;
+}
+#count{
+    font-size: 60px;
+    background-color: white;
+}
+
+#increase, #decrease, #reset{
+    padding : 10px;
+    background-color: black;
+    color : white;
+}
+
+#increase:hover, #decrease:hover, #reset:hover{
+    background-color: white;
+    color : black;
+}
+
+#name{
+    margin-top: 200px;
+    text-align: right;
+}
+
+#Aak{
+    background-color: rgb(117, 117, 207);
+    padding: 6px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+#Aak:hover{
+    background-color: rgb(76, 76, 230);
+    
+}
